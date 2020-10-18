@@ -1,24 +1,8 @@
 # chapter2
 
-## Project setup
-```
-npm install
-```
+### 运行结果图：
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![f740657db56d3ea5828ca5af144](https://cdn.jsdelivr.net/gh/MW-S/MWCloudImg@main/dataf740657db56d3ea5828ca5af14463ae.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### ![f740657db56d3ea5828ca5af14463ae](https://cdn.jsdelivr.net/gh/MW-S/MWCloudImg@main/data62045263ddc8c7dc506db73eafb3023.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
